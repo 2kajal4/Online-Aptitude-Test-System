@@ -30,3 +30,49 @@ This project is designed to automate the traditional aptitude test process and p
 ---
 
 ## 📂 Project Structure
+
+OnlineTestApp
+│── src/main/java
+│ ├── controller
+│ ├── dao
+│ ├── model
+│── src/main/webapp
+│ ├── jsp
+│ ├── css
+│ ├── js
+│── pom.xml
+
+
+---
+
+## ⚙️ How to Run the Project
+1. Clone the repository
+   ```bash
+   git clone https://github.com/2kajal4/Online-Aptitude-Test-System.git
+
+Import the project into Eclipse as a Maven Project
+
+Configure Apache Tomcat Server
+
+Update Oracle DB credentials in Hibernate configuration
+
+Run the project on the server
+
+Purpose of the Project
+
+This project was developed as part of academic learning to gain hands-on experience with:
+
+Java Web Development
+
+MVC Architecture
+
+Database integration using Hibernate
+
+Real-world project structure
+
+
+
+Author
+
+Kajal Shukla
+BSc IT Graduate | Frontend & Java Web Developer
